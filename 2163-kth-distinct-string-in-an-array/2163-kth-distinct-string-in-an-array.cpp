@@ -5,19 +5,16 @@ public:
         for(int i=0;i<arr.size();i++){
             mp[arr[i]]++;
         }
-        int cnt=1;
-        string st = "";
-        for(int i=0;i<arr.size();i++){
-            if(mp[arr[i]] == 1 && cnt == k){
-                st = arr[i]; 
-                break;
-            }
-            else if(mp[arr[i]] == 1 && cnt != k){
+        int cnt = 0;
+        for (int i = 0; i < arr.size(); ++i) {
+            if (mp[arr[i]] == 1) {
                 cnt++;
-            }else if(mp[arr[i]] != 1){
-                continue;
+                if (cnt == k) {
+                    return arr[i];
+                }
             }
         }
-        return st;
+        
+        return "";
     }
 };
