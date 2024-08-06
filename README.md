@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/dwivedishubham545/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/dwivedishubham545/Leetcode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/dwivedishubham545/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0496-next-greater-element-i](https://github.com/dwivedishubham545/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dwivedishubham545/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dwivedishubham545/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dwivedishubham545/Leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/dwivedishubham545/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
