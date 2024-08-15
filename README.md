@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/dwivedishubham545/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/dwivedishubham545/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/dwivedishubham545/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/dwivedishubham545/Leetcode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/dwivedishubham545/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/dwivedishubham545/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/dwivedishubham545/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/dwivedishubham545/Leetcode/tree/master/0890-lemonade-change) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/dwivedishubham545/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
