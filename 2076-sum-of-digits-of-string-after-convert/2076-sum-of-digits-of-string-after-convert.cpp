@@ -1,18 +1,25 @@
 class Solution {
 public:
     int getLucky(string s, int k) {
-        string number = "";
+        int sum = 0;
         for (char x : s) {
-            number += to_string(x - 'a' + 1);
-        }
-        while (k > 0) {
-            int temp = 0;
-            for (char x : number) {
-                temp += x - '0';  
+            int num = x - 'a' + 1;
+            while (num > 0) {
+                sum += num % 10;
+                num /= 10;
             }
-            number = to_string(temp);
+        }
+        
+        while (k > 1) {
+            int tempSum = 0;
+            while (sum > 0) {
+                tempSum += sum % 10;
+                sum /= 10;
+            }
+            sum = tempSum;
             k--;
         }
-        return stoi(number);
+        
+        return sum;
     }
 };
