@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/dwivedishubham545/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/dwivedishubham545/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/dwivedishubham545/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0859-design-circular-deque](https://github.com/dwivedishubham545/Leetcode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/dwivedishubham545/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/dwivedishubham545/Leetcode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/dwivedishubham545/Leetcode/tree/master/0921-spiral-matrix-iii) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dwivedishubham545/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/dwivedishubham545/Leetcode/tree/master/0859-design-circular-deque) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -178,5 +180,10 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/dwivedishubham545/Leetcode/tree/master/0859-design-circular-deque) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dwivedishubham545/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/dwivedishubham545/Leetcode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
