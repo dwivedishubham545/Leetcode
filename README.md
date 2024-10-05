@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/dwivedishubham545/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/dwivedishubham545/Leetcode/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/dwivedishubham545/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/dwivedishubham545/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1256-rank-transform-of-an-array](https://github.com/dwivedishubham545/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/dwivedishubham545/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0567-permutation-in-string](https://github.com/dwivedishubham545/Leetcode/tree/master/0567-permutation-in-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dwivedishubham545/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/dwivedishubham545/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dwivedishubham545/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/dwivedishubham545/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dwivedishubham545/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0567-permutation-in-string](https://github.com/dwivedishubham545/Leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/dwivedishubham545/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dwivedishubham545/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
@@ -209,4 +212,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/dwivedishubham545/Leetcode/tree/master/0859-design-circular-deque) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/dwivedishubham545/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
