@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/dwivedishubham545/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/dwivedishubham545/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dwivedishubham545/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/dwivedishubham545/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/dwivedishubham545/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dwivedishubham545/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/dwivedishubham545/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/dwivedishubham545/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dwivedishubham545/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/dwivedishubham545/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/dwivedishubham545/Leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/dwivedishubham545/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1923-sentence-similarity-iii](https://github.com/dwivedishubham545/Leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/dwivedishubham545/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/dwivedishubham545/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dwivedishubham545/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dwivedishubham545/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -204,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/dwivedishubham545/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/dwivedishubham545/Leetcode/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dwivedishubham545/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Linked List
