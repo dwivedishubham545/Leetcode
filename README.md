@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/dwivedishubham545/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/dwivedishubham545/Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/dwivedishubham545/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/dwivedishubham545/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dwivedishubham545/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dwivedishubham545/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/dwivedishubham545/Leetcode/tree/master/0118-pascals-triangle) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/dwivedishubham545/Leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/dwivedishubham545/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/dwivedishubham545/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/dwivedishubham545/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/dwivedishubham545/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/dwivedishubham545/Leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/dwivedishubham545/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/dwivedishubham545/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/dwivedishubham545/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dwivedishubham545/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
