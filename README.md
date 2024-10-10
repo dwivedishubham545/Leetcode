@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0890-lemonade-change](https://github.com/dwivedishubham545/Leetcode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/dwivedishubham545/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/dwivedishubham545/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1002-maximum-width-ramp](https://github.com/dwivedishubham545/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1240-stone-game-ii](https://github.com/dwivedishubham545/Leetcode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/dwivedishubham545/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/dwivedishubham545/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/dwivedishubham545/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/dwivedishubham545/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dwivedishubham545/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/dwivedishubham545/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/dwivedishubham545/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dwivedishubham545/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/dwivedishubham545/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0496-next-greater-element-i](https://github.com/dwivedishubham545/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dwivedishubham545/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [1002-maximum-width-ramp](https://github.com/dwivedishubham545/Leetcode/tree/master/1002-maximum-width-ramp) |
 ## String
 |  |
 | ------- |
