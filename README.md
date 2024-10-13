@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dwivedishubham545/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/dwivedishubham545/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/dwivedishubham545/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/dwivedishubham545/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dwivedishubham545/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/dwivedishubham545/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/dwivedishubham545/Leetcode/tree/master/0062-unique-paths) |
 | [0273-integer-to-english-words](https://github.com/dwivedishubham545/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/dwivedishubham545/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/dwivedishubham545/Leetcode/tree/master/1240-stone-game-ii) |
@@ -266,4 +268,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0567-permutation-in-string](https://github.com/dwivedishubham545/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/dwivedishubham545/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/dwivedishubham545/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
