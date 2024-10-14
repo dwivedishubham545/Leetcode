@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dwivedishubham545/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/dwivedishubham545/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/dwivedishubham545/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0567-permutation-in-string](https://github.com/dwivedishubham545/Leetcode/tree/master/0567-permutation-in-string) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dwivedishubham545/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/dwivedishubham545/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/dwivedishubham545/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/dwivedishubham545/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dwivedishubham545/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/dwivedishubham545/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dwivedishubham545/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/dwivedishubham545/Leetcode/tree/master/0151-reverse-words-in-a-string) |
