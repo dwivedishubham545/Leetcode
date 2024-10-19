@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/dwivedishubham545/Leetcode/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dwivedishubham545/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/dwivedishubham545/Leetcode/tree/master/1304-longest-happy-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/dwivedishubham545/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dwivedishubham545/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/dwivedishubham545/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/dwivedishubham545/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/dwivedishubham545/Leetcode/tree/master/0273-integer-to-english-words) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/dwivedishubham545/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Matrix
 |  |
 | ------- |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/dwivedishubham545/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/dwivedishubham545/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dwivedishubham545/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/dwivedishubham545/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/dwivedishubham545/Leetcode/tree/master/2155-find-missing-observations) |
