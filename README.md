@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1002-maximum-width-ramp](https://github.com/dwivedishubham545/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1240-stone-game-ii](https://github.com/dwivedishubham545/Leetcode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/dwivedishubham545/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/dwivedishubham545/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/dwivedishubham545/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/dwivedishubham545/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/dwivedishubham545/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dwivedishubham545/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/dwivedishubham545/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/dwivedishubham545/Leetcode/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/dwivedishubham545/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/dwivedishubham545/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dwivedishubham545/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/dwivedishubham545/Leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/dwivedishubham545/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/dwivedishubham545/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/dwivedishubham545/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/dwivedishubham545/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/dwivedishubham545/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/dwivedishubham545/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -323,4 +326,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dwivedishubham545/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/dwivedishubham545/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
