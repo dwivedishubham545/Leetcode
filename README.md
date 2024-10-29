@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/dwivedishubham545/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dwivedishubham545/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/dwivedishubham545/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/dwivedishubham545/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dwivedishubham545/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dwivedishubham545/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1240-stone-game-ii](https://github.com/dwivedishubham545/Leetcode/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dwivedishubham545/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/dwivedishubham545/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0999-regions-cut-by-slashes](https://github.com/dwivedishubham545/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dwivedishubham545/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/dwivedishubham545/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/dwivedishubham545/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
