@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dwivedishubham545/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/dwivedishubham545/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dwivedishubham545/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2792-neighboring-bitwise-xor](https://github.com/dwivedishubham545/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/dwivedishubham545/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/dwivedishubham545/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dwivedishubham545/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dwivedishubham545/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dwivedishubham545/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/dwivedishubham545/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2792-neighboring-bitwise-xor](https://github.com/dwivedishubham545/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## Linked List
 |  |
 | ------- |
