@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1240-stone-game-ii](https://github.com/dwivedishubham545/Leetcode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/dwivedishubham545/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/dwivedishubham545/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/dwivedishubham545/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dwivedishubham545/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/dwivedishubham545/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/dwivedishubham545/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/dwivedishubham545/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/dwivedishubham545/Leetcode/tree/master/0229-majority-element-ii) |
+| [1396-count-servers-that-communicate](https://github.com/dwivedishubham545/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dwivedishubham545/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dwivedishubham545/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/dwivedishubham545/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0870-magic-squares-in-grid](https://github.com/dwivedishubham545/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/dwivedishubham545/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/dwivedishubham545/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1396-count-servers-that-communicate](https://github.com/dwivedishubham545/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dwivedishubham545/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/dwivedishubham545/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/dwivedishubham545/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -248,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0776-n-ary-tree-postorder-traversal](https://github.com/dwivedishubham545/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/dwivedishubham545/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/dwivedishubham545/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/dwivedishubham545/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/dwivedishubham545/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/dwivedishubham545/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/dwivedishubham545/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -255,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/dwivedishubham545/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1396-count-servers-that-communicate](https://github.com/dwivedishubham545/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/dwivedishubham545/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/dwivedishubham545/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/dwivedishubham545/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -263,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/dwivedishubham545/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1396-count-servers-that-communicate](https://github.com/dwivedishubham545/Leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Strongly Connected Component
 |  |
 | ------- |
