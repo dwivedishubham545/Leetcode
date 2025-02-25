@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/dwivedishubham545/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/dwivedishubham545/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dwivedishubham545/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/dwivedishubham545/Leetcode/tree/master/0056-merge-intervals) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dwivedishubham545/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/dwivedishubham545/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/dwivedishubham545/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dwivedishubham545/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/dwivedishubham545/Leetcode/tree/master/0151-reverse-words-in-a-string) |
