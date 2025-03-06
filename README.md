@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dwivedishubham545/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2792-neighboring-bitwise-xor](https://github.com/dwivedishubham545/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/dwivedishubham545/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/dwivedishubham545/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/dwivedishubham545/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dwivedishubham545/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dwivedishubham545/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/dwivedishubham545/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dwivedishubham545/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/dwivedishubham545/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/dwivedishubham545/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dwivedishubham545/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/dwivedishubham545/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2155-find-missing-observations](https://github.com/dwivedishubham545/Leetcode/tree/master/2155-find-missing-observations) |
 | [2649-count-total-number-of-colored-cells](https://github.com/dwivedishubham545/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/dwivedishubham545/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -255,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dwivedishubham545/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/dwivedishubham545/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/dwivedishubham545/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/dwivedishubham545/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
