@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2155-find-missing-observations](https://github.com/dwivedishubham545/Leetcode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dwivedishubham545/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dwivedishubham545/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2262-solving-questions-with-brainpower](https://github.com/dwivedishubham545/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/dwivedishubham545/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2358-number-of-ways-to-split-array](https://github.com/dwivedishubham545/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/dwivedishubham545/Leetcode/tree/master/2465-shifting-letters-ii) |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1240-stone-game-ii](https://github.com/dwivedishubham545/Leetcode/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/dwivedishubham545/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dwivedishubham545/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2262-solving-questions-with-brainpower](https://github.com/dwivedishubham545/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2554-minimum-total-distance-traveled](https://github.com/dwivedishubham545/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/dwivedishubham545/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Two Pointers
