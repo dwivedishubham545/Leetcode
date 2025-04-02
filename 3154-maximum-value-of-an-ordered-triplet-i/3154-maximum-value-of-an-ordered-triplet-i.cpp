@@ -1,16 +1,18 @@
 class Solution {
 public:
     long long maximumTripletValue(vector<int>& nums) {
-        long long maxi = 0;
         int n = nums.size();
-        for(int i=0;i<n-2;i++){
-            for(int j=i+1;j<n-1;j++){
-                for(int k=j+1;k<n;k++){
-                    long long value = (nums[i]-nums[j])*nums[k];
-                    maxi = max(value,maxi);
-                }
-            }
+        if(n < 3) return 0;
+        long long maxi = 0;
+        long long a = INT_MIN;
+        int b = nums[0];
+
+        for(int i = 1; i < n - 1; i++) {
+            a = max(a, (long long)b - nums[i]);  // Ensure subtraction is in long long
+            maxi = max(maxi, a * nums[i + 1]);   // Corrected the typo here
+            b = max(b, nums[i]);
         }
+
         return maxi;
     }
 };
