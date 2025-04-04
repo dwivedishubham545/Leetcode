@@ -13,7 +13,6 @@ class Solution {
 public:
     vector<vector<int>> permute(vector<int>& nums) {
         vector<vector<int>> res;
-        vector<int> ds;
         recurPermute(nums,0,res);
         return res;
     }
