@@ -1,45 +1,50 @@
 class Solution {
-    bool isSafe(int row, int col, vector<string> &board, int n){
-        for(int i = 0; i < row; i++){
-            if(board[i][col] == 'Q'){
+public:
+    bool isSafe(vector<string>&board, int row, int col, int n){
+        for(int i=0;i<n;i++){
+            if(board[row][i]=='Q'){
                 return false;
             }
         }
-        for(int i = row, j = col; i >= 0 && j >= 0; i--, j--){
-            if(board[i][j] == 'Q'){
+        for(int i=0;i<n;i++){
+            if(board[i][col]=='Q'){
                 return false;
             }
         }
-        for(int i = row, j = col; i >= 0 && j < n; i--, j++){
-            if(board[i][j] == 'Q'){
+
+        for(int i=row,j=col;i>=0&&j>=0;i--,j--){
+            if(board[i][j]=='Q'){
                 return false;
             }
         }
+        for(int i=row,j=col;i>=0&&j>=0;i--,j++){
+            if(board[i][j]=='Q'){
+                return false;
+            }
+        }
+
         return true;
     }
 
-    void solve(int row, vector<string> &board, vector<vector<string>> &res, int n){
-        if(row == n){
-            res.push_back(board);
+    void nQueens(vector<string>& board, int row, int n, vector<vector<string>>&ans){
+        if(row==n){
+            ans.push_back({board});
             return;
         }
-        for(int col = 0; col < n; col++){
-            if(isSafe(row, col, board, n)){
-                board[row][col] = 'Q';
-                solve(row+1, board, res, n);
-                board[row][col] = '.';
+
+        for(int j=0;j<n;j++){
+            if(isSafe(board,row,j,n)){
+                board[row][j]='Q';
+                nQueens(board, row+1, n, ans);
+                board[row][j]='.';
             }
         }
     }
-public:
+
     vector<vector<string>> solveNQueens(int n) {
-        vector<vector<string>> res;
-        vector<string> board(n);
-        string s(n, '.');
-        for(int i = 0; i < n; i++){
-            board[i] = s;
-        }
-        solve(0, board, res, n);
-        return res;
+        vector<string>board(n, string(n, '.'));
+        vector<vector<string>>ans;
+        nQueens(board, 0, n, ans);
+        return ans;
     }
 };
